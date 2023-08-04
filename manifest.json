@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Clips",
+    "action": {
+        "default_popup": "Clips.html",
+        "default_icon": "/images/logo.png" 
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
